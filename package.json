@@ -1,0 +1,14 @@
+{
+  "name": "sq-node-ember-renderer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phantom": "^0.8.0"
+  }
+}
